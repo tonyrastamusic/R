@@ -1,0 +1,20 @@
+{
+  "name": "Reps Ч “рекер тренировок",
+  "short_name": "Reps",
+  "description": "ƒневник тренировок с отслеживанием прогресса",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f10",
+  "theme_color": "#8b6fff",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
